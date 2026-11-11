@@ -54,6 +54,8 @@ acre_lot means the total land area, and house_size denotes the living space/buil
 
 Another with 2 columns that are used to indicate the cost of living in each state. Provided by WorldPopulationReview.com.
 
+cost-of-living-index-by-state-2026.csv (52 entries, D.C. and the U.S as a whole included as entries)
+
 state 
 
 CostOfLivingIndexByState_2025
