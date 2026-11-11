@@ -18,7 +18,7 @@ Which properties have unusually high operating expenses?
 
 How can predictive analytics improve investment decisions?
 
-The dataset has 1 CSV file with 10 columns -
+The dataset has 2 CSV files, one with 10 columns -
 
 realtor-data.csv (2,226,382 entries)
 brokered by (categorically encoded agency/broker)
@@ -37,6 +37,12 @@ NB:
 
 brokered by and street addresses were categorically encoded due to data privacy policy
 acre_lot means the total land area, and house_size denotes the living space/building area
+
+Another with 2 columns that are used to indicate the cost of living in each state. Provided by WorldPopulationReview.com.
+state 
+CostOfLivingIndexByState_2025
+
+
 
 Technical Stack
 
